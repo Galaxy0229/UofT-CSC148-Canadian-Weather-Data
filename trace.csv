@@ -1,0 +1,6 @@
+Longitude (x),Latitude (y),Station Name,Climate ID,Date/Time,Year,Month,Day,Data Quality,Max Temp (°C),Max Temp Flag,Min Temp (°C),Min Temp Flag,Mean Temp (°C),Mean Temp Flag,Heat Deg Days (°C),Heat Deg Days Flag,Cool Deg Days (°C),Cool Deg Days Flag,Total Rain (mm),Total Rain Flag,Total Snow (cm),Total Snow Flag,Total Precip (mm),Total Precip Flag,Snow on Grnd (cm),Snow on Grnd Flag,Dir of Max Gust (10s deg),Dir of Max Gust Flag,Spd of Max Gust (km/h),Spd of Max Gust Flag
+89.2477,48.3809,THUNDER BAY,1107384,3/11/2017,2017,3,11,,7.7,,-8.2,,-3.3,,11.5,,-8.7,,0,T,0,,0,T,,,,M,,M
+89.2477,48.3809,THUNDER BAY,1107384,3/17/2020,2020,3,17,,4,,-9.3,,0.2,,8.2,,-10.3,,0,,0,T,0,T,,,,M,,M
+89.2477,48.3809,THUNDER BAY,1107384,5/7/2020,2020,5,7,,10.4,,9.7,,10,,15.1,,9.7,,0,T,0,T,0,T,,,,M,,M
+89.2477,48.3809,THUNDER BAY,1107384,12/24/2020,2020,12,24,,1.2,,-10.3,,0.8,,15.1,,9.7,,0,T,0,T,0,T,,,,,,
+89.2477,48.3809,THUNDER BAY,1107384,12/28/2020,2020,12,28,,5.7,,-2.1,,1.2,,2.3,,1.1,,0,,0,T,0,T,,,,,,

@@ -1,0 +1,44 @@
+{
+   "THUNDER BAY":{
+      "03/11/2017":{
+         "avg_temp":-3.3,
+         "low_temp":-8.2,
+         "high_temp":7.7,
+         "precipitation":-1,
+         "rainfall":-1,
+         "snowfall":0.0
+      },
+      "03/17/2020":{
+         "avg_temp":0.2,
+         "low_temp":-9.3,
+         "high_temp":4.0,
+         "precipitation":-1,
+         "rainfall":0.0,
+         "snowfall":-1
+      },
+      "05/07/2020":{
+         "avg_temp":10.0,
+         "low_temp":9.7,
+         "high_temp":10.4,
+         "precipitation":-1,
+         "rainfall":-1,
+         "snowfall":-1
+      },
+      "12/24/2020":{
+         "avg_temp":0.8,
+         "low_temp":-10.3,
+         "high_temp":1.2,
+         "precipitation":-1,
+         "rainfall":-1,
+         "snowfall":-1
+      },
+      "12/28/2020":{
+         "avg_temp":1.2,
+         "low_temp":-2.1,
+         "high_temp":5.7,
+         "precipitation":-1,
+         "rainfall":0.0,
+         "snowfall":-1
+      }
+   }
+}
